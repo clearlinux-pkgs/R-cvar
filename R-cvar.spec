@@ -4,7 +4,7 @@
 #
 Name     : R-cvar
 Version  : 0.5
-Release  : 1
+Release  : 2
 URL      : https://cran.r-project.org/src/contrib/cvar_0.5.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/cvar_0.5.tar.gz
 Summary  : Compute Expected Shortfall and Value at Risk for Continuous
